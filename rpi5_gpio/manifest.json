@@ -1,0 +1,9 @@
+{
+  "domain": "rpi5_gpio",
+  "name": "Raspberry Pi 5 GPIO",
+  "version": "1.0.0",
+  "documentation": "https://github.com/SoFarSoGood86/rpi5_gpio",
+  "requirements": ["RPi.GPIO"],
+  "dependencies": [],
+  "codeowners": ["@SoFarSoGood86"]
+}
